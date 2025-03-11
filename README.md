@@ -47,7 +47,7 @@ STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free ac
 EXAMPLE 2A
 <p>
   
-![img](images/img2.png)
+![img](images/img2.0.png)
 </p>
 <p>
 
